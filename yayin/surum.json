@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.1",
+  "surum": "1.0.2",
   "tarih": "2026-09-16",
-  "notlar": "Kurulum düzeltmeleri: uzun klasör yolu (Outlook eki gibi) artık baştan uyarıyor, bozuk sanal ortam yenileniyor, pip kaydı bozuksa kurtarılıyor.",
+  "notlar": "Açık tema ve ekrana uyum: pencere ekran boyutuna göre açılır, sayaçlar alt duruma taşındı, reklam dar ekranda küçülür veya gizlenir.",
   "paket": "https://raw.githubusercontent.com/onurgur123-rgb/ekap/main/yayin/EKAP_Izleyici_Kurulum.zip"
 }
