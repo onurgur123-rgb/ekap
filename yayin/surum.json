@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.0",
-  "tarih": "2026-09-15",
-  "notlar": "Sürüm notunu buraya yazın.",
+  "surum": "1.0.1",
+  "tarih": "2026-09-16",
+  "notlar": "Kurulum düzeltmeleri: uzun klasör yolu (Outlook eki gibi) artık baştan uyarıyor, bozuk sanal ortam yenileniyor, pip kaydı bozuksa kurtarılıyor.",
   "paket": "https://raw.githubusercontent.com/onurgur123-rgb/ekap/main/yayin/EKAP_Izleyici_Kurulum.zip"
 }
