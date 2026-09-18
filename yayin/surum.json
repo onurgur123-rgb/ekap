@@ -1,6 +1,6 @@
 {
-  "surum": "1.0.3",
-  "tarih": "2026-09-16",
-  "notlar": "Güncelleme düzeltmesi: 'Şimdi Güncelle' onaylandığı hâlde sessizce hiçbir şey yapmıyordu; yanlış kuyruk adı yüzünden iş parçacığı ölüyordu. Artık indirir, kurar ve bir sorun olursa bildirir.",
+  "surum": "1.0.4",
+  "tarih": "2026-09-18",
+  "notlar": "Bakım sürümü. Uygulamada değişiklik yok; otomatik yayın ve güncelleme altyapısı doğrulandı.",
   "paket": "https://raw.githubusercontent.com/onurgur123-rgb/ekap/main/yayin/EKAP_Izleyici_Kurulum.zip"
 }
