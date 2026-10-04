@@ -1,0 +1,16 @@
+{
+  "surum": "1.0.7",
+  "tarih": "2026-10-02",
+  "notlar": "Güvenlik güncellemesi: EKAP İzleyici yeni, daha güvenli sürüme geçiyor. Kayıtlarınız korunur; Python artık gerekmez. Güncellemeden sonra programı yeniden açın ve 'Şimdi Geç'e basın.",
+  "paket": "https://raw.githubusercontent.com/onurgur123-rgb/ekap/main/yayin/EKAP_Izleyici_Kurulum.zip",
+  "sha256": "83b68a9fd83587cc957240d8aab865002c9e4b0cc97ab5e86a040a69aa79ac83",
+  "imza": "92f3c79f77fe8d9af72ded6d0c5651b6222d0447eed2989cfad6747befdda1e1b1ce25e001e641429fdf2d9dd704abcead58f1ec8b2b2d431642c3437d3a5903",
+  "exe": {
+    "surum": "1.0.7",
+    "tarih": "2026-10-02",
+    "notlar": "Güvenlik güncellemesi",
+    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.0.7/EKAP_Izleyici_Exe.zip",
+    "sha256": "5d2b9b73e271145cf43eeb375e5545a2ca650eb0454e6ad4e25bd22033aee17f",
+    "imza": "cb45ae4264b0eb558df5506491ae65cf8baa7ee9c3758050c948a9b53e428b95c3f7bbce10ed4abb4b338cd1fff29ab290564684de92a90dd0761816203e3e01"
+  }
+}
