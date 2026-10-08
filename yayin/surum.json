@@ -6,11 +6,11 @@
   "sha256": "551672d8019bea96c50e0edf7b2f43d00aa99a70b844ff4a7289e83177c7813a",
   "imza": "824e44cb5d47fa25e10ee527e15265ce9352ba936790c57129d1331fcbcaa17abb38783cb76d6eafd1a8456b198eb235265d1d92d7fa1332917e02634a720d08",
   "exe": {
-    "surum": "1.0.8",
+    "surum": "1.0.9",
     "tarih": "2026-10-08",
-    "notlar": "ÜTS sorgulama: Şirket Profili'nde firmanızın ÜTS kayıtlarını ve bayilik/servis yetkilerini tek tıkla sorgulayıp kaydedin. Üniversite hastanesi süzgeci: İhale ve Doğrudan Temin listelerinde yalnızca üniversite hastanelerini gösterin.",
-    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.0.8/EKAP_Izleyici_Exe.zip",
-    "sha256": "60115436c6a5b94c60e461293e5c4ff219c1e0f1453aebbf2039907b3e5a06d6",
-    "imza": "37c8e4ee6f661d3aaaee77dcf4d4d2af404bca63fc60f59a13b2d37ab6df980354be5782b54152472db532dcc718ccb915c9eab8792e694ab902f2b1a84b7c0e"
+    "notlar": "Şirket Profili sekmesi 1.0.8'de açılmıyordu; düzeltildi. ÜTS bölümü artık görünüyor: firmayı seçip \"ÜTS'den Sorgula\" düğmesiyle bayilik ve servis yetkilerinizi listeleyebilirsiniz.",
+    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.0.9/EKAP_Izleyici_Exe.zip",
+    "sha256": "8c34f54b60d012532ab5bf4aa176bd03890da7337f75f144bff4862f7b9dd336",
+    "imza": "14f1f42f33e3b810c06fef7a92d1b42edfb498740db5a8f16e928cc03ef01bd6436a9687cd5ff10ee138351ab6fac35faf862d0f8513f28bd1eb1c2bc8c2c90a"
   }
 }
