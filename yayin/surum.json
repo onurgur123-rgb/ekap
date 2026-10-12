@@ -6,11 +6,11 @@
   "sha256": "551672d8019bea96c50e0edf7b2f43d00aa99a70b844ff4a7289e83177c7813a",
   "imza": "824e44cb5d47fa25e10ee527e15265ce9352ba936790c57129d1331fcbcaa17abb38783cb76d6eafd1a8456b198eb235265d1d92d7fa1332917e02634a720d08",
   "exe": {
-    "surum": "1.1.0",
-    "tarih": "2026-10-10",
-    "notlar": "Rakipler sekmesi: sonuçlanmış ihalelerde kimin kazandığını, hangi kırımla ve hangi idarede iş aldığını görün. ÜTS \"Profile İşle\": ÜTS kayıtlarınızı ve bayilik yetkilerinizi tek tuşla şirket profilinin belge listesine işleyin; şartname değerlendirmesi artık bunları da sayıyor.",
-    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.1.0/EKAP_Izleyici_Exe.zip",
-    "sha256": "56ea56ecfd8e2397128a43128df401c0cb18f759622f572ee6565dbb0d479d6f",
-    "imza": "4a8e6855b83da269f759a29add8a41aba67594e55c71d0f48135cccfeb6b3dc1c7121b5ba403543620ae6c54587a2de7a4cffc458da0eaf8b46a7b703a735706"
+    "surum": "1.1.1",
+    "tarih": "2026-10-12",
+    "notlar": "Bayilik kalemleri: her yetkinin hangi ürünleri kapsadığını ÜTS'den çekip profilde görün (marka, ürün, katalog no, barkod, sınıf); listede arama yapın. Belge listesi ile ÜTS bölümü arasındaki bölmeleri artık sürükleyerek ayarlayabilirsiniz. Rakip verisi toplama artık liste ve ayrıntıyı dönüşümlü çekiyor, ilk turdan sonra tabloda veri oluyor.",
+    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.1.1/EKAP_Izleyici_Exe.zip",
+    "sha256": "8303b2c7e9727ebf418db3443c6b8202955a9434cada26c0e3aa86329c9c04e7",
+    "imza": "9e1ab21d53f57cc9a79cce0bf2197f222688d8e8814a624019fae732154e41ec5c643f5c692295d87ea6df8ee540fa95365e5182bc2ddbae9f5255bec872dd09"
   }
 }
