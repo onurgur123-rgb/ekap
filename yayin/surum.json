@@ -6,11 +6,11 @@
   "sha256": "551672d8019bea96c50e0edf7b2f43d00aa99a70b844ff4a7289e83177c7813a",
   "imza": "824e44cb5d47fa25e10ee527e15265ce9352ba936790c57129d1331fcbcaa17abb38783cb76d6eafd1a8456b198eb235265d1d92d7fa1332917e02634a720d08",
   "exe": {
-    "surum": "1.1.1",
-    "tarih": "2026-10-12",
-    "notlar": "Bayilik kalemleri: her yetkinin hangi ürünleri kapsadığını ÜTS'den çekip profilde görün (marka, ürün, katalog no, barkod, sınıf); listede arama yapın. Belge listesi ile ÜTS bölümü arasındaki bölmeleri artık sürükleyerek ayarlayabilirsiniz. Rakip verisi toplama artık liste ve ayrıntıyı dönüşümlü çekiyor, ilk turdan sonra tabloda veri oluyor.",
-    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.1.1/EKAP_Izleyici_Exe.zip",
-    "sha256": "8303b2c7e9727ebf418db3443c6b8202955a9434cada26c0e3aa86329c9c04e7",
-    "imza": "9e1ab21d53f57cc9a79cce0bf2197f222688d8e8814a624019fae732154e41ec5c643f5c692295d87ea6df8ee540fa95365e5182bc2ddbae9f5255bec872dd09"
+    "surum": "1.1.2",
+    "tarih": "2026-10-24",
+    "notlar": "Hastane Siteleri sekmesi genişledi: üniversite hastaneleri ve 81 ilden taranan 19 hastane eklendi (36 site). Bulunamayan hastaneleri hastane_siteleri_elle.json dosyasına kendiniz ekleyebilirsiniz. Fırsat puanlaması artık kendi arama kelimelerinizden üretiliyor, sabit bir sektöre bağlı değil. Rakip verisi EKAP açıkken kendiliğinden toplanıyor; ayrı saat ayarı gerekmiyor.",
+    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.1.2/EKAP_Izleyici_Exe.zip",
+    "sha256": "43b434bda20eff86a4bca49f079d8bda672616bc43b67770be1c181b5baa81e2",
+    "imza": "1023e74e07b9539a7ae51c057138b2e98b73d80858e12040c5254ed698421db23308793747402ddea79b999723f26abb8a81850eefc01e98938a4077c183870a"
   }
 }
