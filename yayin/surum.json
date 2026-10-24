@@ -6,11 +6,11 @@
   "sha256": "551672d8019bea96c50e0edf7b2f43d00aa99a70b844ff4a7289e83177c7813a",
   "imza": "824e44cb5d47fa25e10ee527e15265ce9352ba936790c57129d1331fcbcaa17abb38783cb76d6eafd1a8456b198eb235265d1d92d7fa1332917e02634a720d08",
   "exe": {
-    "surum": "1.1.3",
+    "surum": "1.1.4",
     "tarih": "2026-10-24",
-    "notlar": "Aynı hastane listede tek satır: Kayseri, Bursa ve Elazığ şehir hastaneleri iki ayrı idare gibi görünüyordu, sayfaları tek kayıtta birleşti. Elle eklediğiniz hastaneler (hastane_siteleri_elle.json) ve ayar dosyalarınız artık güncellemede korunuyor, üzerine yazılmıyor.",
-    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.1.3/EKAP_Izleyici_Exe.zip",
-    "sha256": "d06f23679ad8b0757eff149b43981c031e0eea3a71b7c13e7ab42cee213bd78d",
-    "imza": "68287b7db96cfa3d75b53772749917b10a89e5497ae3ec35cf873fa43c5ce6a571c809e600fad8cbfb5efd3e7aea5954f483f267f64faa511910ae272aabb90a"
+    "notlar": "Yeni görünüm: Canlı İzleme ve Filtreleme tek İlanlar ekranında birleşti. Liste en yakın ihale tarihiyle açılır; Son 2 gün, Bu hafta ve Son 24 saat düğmeleri ile seçili ilanın ayrıntı paneli eklendi. Başlıktaki Uyarılar düğmesi tüm mesajların geçmişini, yeni Ayarlar penceresi tarama aralığını ve bildirimleri gösterir. Düzeltmeler: Yardım penceresi, Hastane Siteleri ve Resmî Gazete'de toplu indirme. Rakipler Excel'e aktarılabiliyor; şartname uyarıları sade Türkçe.",
+    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.1.4/EKAP_Izleyici_Exe.zip",
+    "sha256": "96cd7042e883e63bd8f722461ac53224212fba464e6f3be7990864f536efdc46",
+    "imza": "3972bc77dadb2474d264b0cd451143518d0ce15790abd33f4b45eda5326b6e98b40d6884f2384e998bf81777ec103ba5d596ac3ab5fd84a0d3c5ee081004f707"
   }
 }
