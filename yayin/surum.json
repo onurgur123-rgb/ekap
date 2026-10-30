@@ -6,11 +6,11 @@
   "sha256": "551672d8019bea96c50e0edf7b2f43d00aa99a70b844ff4a7289e83177c7813a",
   "imza": "824e44cb5d47fa25e10ee527e15265ce9352ba936790c57129d1331fcbcaa17abb38783cb76d6eafd1a8456b198eb235265d1d92d7fa1332917e02634a720d08",
   "exe": {
-    "surum": "1.1.4",
-    "tarih": "2026-10-24",
-    "notlar": "Yeni görünüm: Canlı İzleme ve Filtreleme tek İlanlar ekranında birleşti. Liste en yakın ihale tarihiyle açılır; Son 2 gün, Bu hafta ve Son 24 saat düğmeleri ile seçili ilanın ayrıntı paneli eklendi. Başlıktaki Uyarılar düğmesi tüm mesajların geçmişini, yeni Ayarlar penceresi tarama aralığını ve bildirimleri gösterir. Düzeltmeler: Yardım penceresi, Hastane Siteleri ve Resmî Gazete'de toplu indirme. Rakipler Excel'e aktarılabiliyor; şartname uyarıları sade Türkçe.",
-    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.1.4/EKAP_Izleyici_Exe.zip",
-    "sha256": "96cd7042e883e63bd8f722461ac53224212fba464e6f3be7990864f536efdc46",
-    "imza": "3972bc77dadb2474d264b0cd451143518d0ce15790abd33f4b45eda5326b6e98b40d6884f2384e998bf81777ec103ba5d596ac3ab5fd84a0d3c5ee081004f707"
+    "surum": "1.1.5",
+    "tarih": "2026-10-30",
+    "notlar": "EKAP doğrulaması düşünce tarama artık 1 saat beklemiyor: pencere açık kalır, doğrulayınca hemen tarar. İlanlar OKAS koduyla da eşleşiyor; adında anahtar kelime geçmeyen ilan, kodu tutuyorsa fırsat olarak bildirilir. Rakip toplama EKAP \"çok sık istek\" (HTTP 429) dediğinde 30 dakika ara veriyor, veri kaybolmuyor; ihale taraması etkilenmez.",
+    "paket": "https://github.com/onurgur123-rgb/ekap/releases/download/v1.1.5/EKAP_Izleyici_Exe.zip",
+    "sha256": "be125c724abc1b17355084e7d7115b69d98827e3620fd5119eec1f84eb5c85a7",
+    "imza": "e99b627895b4b65fb3cf48d09744de5e3bd8614bfddd547d3a31b8856a9f7879593f73a348e1618e8049544bebe3e7058922c3454c646da2d8a91375c543ba00"
   }
 }
